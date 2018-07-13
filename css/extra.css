@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Prosto+One');
+
 section[data-background] h1 { 
        background-color:rgba(223,222,221,0.7);
        padding: 50px;
        margin: 20px;
        border-radius: 30px
+}
+
+h1 strong {
+    font-family: 'Prosto One' !important;
+    color: rgb(225,138,7);
 }
 
 section[data-background] h2 {
